@@ -1,7 +1,7 @@
 # -Manual-Webapp-testing-saucedemo-
-# SauceDemo Manual Testing Project
 
-## 📌 Project Overview
+
+##  Project Overview
 
 This project demonstrates **manual software testing** of the **SauceDemo e-commerce web application**.
 
@@ -9,7 +9,7 @@ The main objective of this project is to test the application's core functionali
 
 The project covers **functional testing, positive and negative testing, UI testing, input validation, navigation testing, and end-to-end testing**.
 
-## 🎯 Testing Objectives
+##  Testing Objectives
 
 - Verify the functionality of major application features.
 - Validate positive and negative user scenarios.
@@ -19,7 +19,7 @@ The project covers **functional testing, positive and negative testing, UI testi
 - Practice professional bug reporting.
 - Validate the complete shopping and checkout workflow.
 
-## 🧪 Testing Scope
+##  Testing Scope
 
 ### Login
 
@@ -86,7 +86,7 @@ The project covers **functional testing, positive and negative testing, UI testi
 - Successful order confirmation
 - Back Home functionality
 
-## 📊 Test Case Summary
+##  Test Case Summary
 
 A total of **71 test cases** were created and executed across the major modules of the application.
 
@@ -101,7 +101,7 @@ A total of **71 test cases** were created and executed across the major modules 
 | Checkout - Complete | 2 |
 | **Total** | **71** |
 
-## 🐞 Bug Reporting
+##  Bug Reporting
 
 During testing, **4 defects** were identified and documented using a structured bug reporting format.
 
@@ -126,7 +126,7 @@ Each bug report contains:
 | BUG-003 | Sauce Labs Backpack description contains incorrect syntax | Medium | P1 | Open |
 | BUG-004 | Invalid checkout information is accepted without proper validation | High | P0 | Open |
 
-## 🔍 Testing Types
+##  Testing Types
 
 - Functional Testing
 - Manual Testing
@@ -140,7 +140,7 @@ Each bug report contains:
 - End-to-End Testing
 - Regression-Oriented Testing
 
-## 🛠️ Tools and Technologies
+##  Tools and Technologies
 
 | Tool | Purpose |
 |---|---|
