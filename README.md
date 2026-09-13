@@ -1,4 +1,4 @@
-# -Manual-Webapp-testing-saucedemo-
+# Manual Webapp Testing (saucedemo)
 
 
 ##  Project Overview
